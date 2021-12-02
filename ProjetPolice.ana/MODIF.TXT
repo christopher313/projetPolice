@@ -1,0 +1,10 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Utilisateur		NFI		nouveau fichier
+Dossier		NFI		nouveau fichier
+Autorisation		NFI		nouveau fichier
+Document		NFI		nouveau fichier
+Contrainte_Utilisateur_Autorisation		NWL	Utilisateur (IDUtilisateur) et Autorisation (IDUtilisateur)	Nouvelle liaison entre les fichiers Utilisateur (IDUtilisateur) et Autorisation (IDUtilisateur)
+Contrainte_Autorisation_Dossier		NWL	Dossier (IDDossier) et Autorisation (IDDossier)	Nouvelle liaison entre les fichiers Dossier (IDDossier) et Autorisation (IDDossier)
+Contrainte_Dossier_Document		NWL	Dossier (IDDossier) et Document (IDDossier)	Nouvelle liaison entre les fichiers Dossier (IDDossier) et Document (IDDossier)
+MaConnexion1		CNX+		
+Utilisateur		FRN		
