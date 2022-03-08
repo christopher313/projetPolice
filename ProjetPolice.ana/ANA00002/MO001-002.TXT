@@ -1,0 +1,3 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Dossier		TAR	151	nouvelle taille enregistrement : 151
+Dossier	Lien	RUB+		Lien est une nouvelle rubrique
