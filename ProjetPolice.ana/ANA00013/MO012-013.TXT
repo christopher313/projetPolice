@@ -1,0 +1,10 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Dossier		TAR	877	nouvelle taille enregistrement : 877
+Dossier	prenomVictime	RUB+		prenomVictime est une nouvelle rubrique
+Dossier	nomVictime	RUB+		nomVictime est une nouvelle rubrique
+Dossier	adresseVictime	RUB+		adresseVictime est une nouvelle rubrique
+Dossier	cpVictime	RUB+		cpVictime est une nouvelle rubrique
+Dossier	villeVictime	RUB+		villeVictime est une nouvelle rubrique
+Dossier	mailVictime	RUB+		mailVictime est une nouvelle rubrique
+Dossier	telVictime	RUB+		telVictime est une nouvelle rubrique
+Dossier	Victime	RUB-		la rubrique Victime est supprimée
